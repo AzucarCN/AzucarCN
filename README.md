@@ -1,6 +1,9 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzucarCN&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AzucarCN&hide_border=no&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzucarCN&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AzucarCN/AzucarCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
